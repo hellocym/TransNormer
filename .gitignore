@@ -164,3 +164,6 @@ runs/
 
 # Pytorch
 *.pth.tar
+
+# JupyterNotebook
+*.ipynb
